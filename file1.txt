@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 upadating
+=======
+adding another line intlo file1
+>>>>>>> master
 hello hai evaryone
